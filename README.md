@@ -19,8 +19,6 @@ package trie;
  * which will be indexed by the triplet (3,1,1), or the second "a" in "data", 
  * which will be indexes by the triplet (3,3,3)
  * 
- * 
- * 
  *
  */
 class Indexes {
